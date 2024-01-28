@@ -1,1 +1,1 @@
-![swagger](swagger.png)
+![Swagger](swagger.png)
